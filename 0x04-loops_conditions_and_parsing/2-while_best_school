@@ -1,17 +1,19 @@
 #!/usr/bin/env bash
 
-# This script is displaying "Best School" 10 times
+#displays "Holberton School" 10 times using while loop
 
-i=10
 
-while [ "$i" -gt 0 ]
+
+count=0
+
+
+
+while [ $count -lt 10 ]
 
 do
 
-    echo "Best School"
+ echo "Best School"
 
-    i=$((i - 1))
+ (( count++ ))
 
 done
-
-i=$i
