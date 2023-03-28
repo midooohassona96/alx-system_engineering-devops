@@ -1,7 +1,3 @@
-0x0D. Web stack debugging #0
-Resources📚
-Read or watch:
-
 Learning Objectives💡
 What you should learn from this project:
 
